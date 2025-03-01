@@ -240,7 +240,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
    Vague Prompt:
-       "Tell me about history."
+       "Tell me about history."   
 
   Improved Prompt:
        "Explain the causes and consequences of the American Revolution in three bullet points, focusing on political and economic factors."
